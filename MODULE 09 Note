@@ -1,0 +1,65 @@
+MODULE 09 => HTML CSS ONLY LANDING PAGE - G3 ARCHITECTS 
+
+
+9-1: G3 ARCHITECTS PROJECT AND GOOGLE FONTS SETUP
+/* work sans font from google fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,600&display=swap');
+
+* { 
+    font-family: 'Work Sans', sans-serif;
+}
+
+and basic github working also figma paste and website design show 
+
+9-2: ADD BANNER CONTENT AND STYLES 
+
+
+
+
+
+
+
+9-3: RESPONSIVE BANNER FOR MOBILE AND MEDIUM DEVICES 
+
+
+
+
+
+
+
+9-4: SET TEAMS SECTIONS WITH FLEX AND GRID LAYOUT 
+
+-
+
+
+
+
+
+
+9-5: MAKE TEAMS SECTION RESPONSIVE AND SHARED CSS CLASS
+
+
+
+
+
+9-6: ADD FACTS CONTENTS AND APPLY FLEX 
+
+
+
+
+9-7: MAKE FACTS AND SPONSORS RESPONSIVE
+
+
+
+
+9-8: CREATE FEATURES SECTION CONTENT AND BADGE 
+
+
+
+
+9-9: MODULE SUMMARY AND GITHUB PAGES DIPLOY 
+
+
+
+
+QUIZ 9
