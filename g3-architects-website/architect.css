@@ -263,7 +263,7 @@ main {
         padding: 50px;
     }
 
-    nav, .teams-container, .sponsors-img-container {
+    nav, .teams-container, .sponsors-img-container, .features {
         flex-direction: column;
     }
 }
